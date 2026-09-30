@@ -32,7 +32,7 @@
 ### Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/v%C3%ADtor-gon%C3%A7alves-463843123/">
+  <a href="[https://www.linkedin.com/in/v%C3%ADtor-gon%C3%A7alves-463843123/](https://www.linkedin.com/in/vitor-gon%C3%A7alves-de-andrade-71b626301/?isSelfProfile=true)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vitorg.a.s@hotmail.com">
