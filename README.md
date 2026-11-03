@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-- 🎓 Graduando em [Engenharia Eletrônica](https://fga.unb.br/eletronica) na [Universidade de Brasília](https://www.unb.br/) (FGA)
+- 🎓 Graduando em [Engenharia Eletrônica](https://fga.unb.br/eletronica) na [Universidade de Brasília](https://www.unb.br/) (FCTE)
 - 💻 Residência em IA na UnB em parceria com o Instituto Eldorado
 - 📫 Aberto a estágios e colaborações
 
